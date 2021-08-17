@@ -61,7 +61,7 @@ currently working for @{}
 
 ○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone)
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://github.com/Hitenop/Adv-Auto-filter-Ts-bot-Clone)
 
 ○ ᴄʀᴇᴀᴛᴏʀ : [@request_moviesorseries](https://t.me/request_moviesorseries)
 
