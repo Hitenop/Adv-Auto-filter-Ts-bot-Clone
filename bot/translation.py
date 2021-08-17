@@ -63,7 +63,7 @@ currently working for @{}
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone)
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_bots](https://t.me/request_moviesorseries)
+○ ᴄʀᴇᴀᴛᴏʀ : [@request_moviesorseries](https://t.me/request_moviesorseries)
 
 **ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ 26-4-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 4:50 ᴘᴍ**
 
